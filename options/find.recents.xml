@@ -1,0 +1,31 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>llBoardExamPerformance</find>
+      <find>tracks</find>
+      <find>timeSwapBuff</find>
+      <find>loginBtn</find>
+      <find>logoutButton</find>
+      <find>customHandler</find>
+      <find>updateTimerThread</find>
+      <find>max</find>
+      <find>KEY_PROJECT_LIST</find>
+      <find>KEY_USER_CREDENTIAL</find>
+      <find>updatedTime</find>
+      <find>timeInMilliseconds</find>
+      <find>projectname</find>
+      <find>ProjectData</find>
+      <find>BUNDLE_SCHOOLINFO_OBJECT</find>
+      <find>degree</find>
+      <find>newsAdapter</find>
+      <find>directions</find>
+      <find>newsList</find>
+      <find>titleArticle</find>
+      <find>headDisplayPic</find>
+      <find>title</find>
+      <find>contentTxt</find>
+      <find>dpArticle</find>
+      <find>view</find>
+    </findStrings>
+  </component>
+</application>
